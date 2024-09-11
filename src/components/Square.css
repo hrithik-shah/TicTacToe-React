@@ -1,0 +1,9 @@
+.square {
+    background: black;
+    padding: 5px;
+    line-height: 200px;
+    text-align: center;
+    font-size: 130px;
+    color: white;
+    cursor: pointer;
+}
